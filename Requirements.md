@@ -29,7 +29,7 @@ Desired features:
   
 ## Client Communication
 
-    ### Development Team
+    Development Team
       - Edward Thomas
       - Vicente
       - Bryan
