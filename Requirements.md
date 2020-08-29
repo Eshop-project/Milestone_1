@@ -45,4 +45,6 @@ In each meeting, each member will discuss:
   
 The team will discuss and collaborate ideas to formulate solutions for the project, regardless of position/role in the milestone.
 
+![Image of Scrum](https://github.com/Eshop-project/Milestone_1/blob/master/Scrum.png)
+
 Edward Thomas will be responsible for keeping clients interests at the center of the requirements.
