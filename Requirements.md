@@ -18,10 +18,12 @@ The project's Essential features will be as follows:
   - Main homepage with registered businesses that are local with [user]. Only view pictures and small information, such as info/small description from company/opening times.
   - Registration for businesses to customize their own page so users can browse products. Only have two pages, information page with opening times/description/promotions/about, and products page with products/prices/type of pick-up(delivery, pick-up)
   - Checkout for user to finalize purchases. This should be a simple page where user can view a "checkout bag", continue to finalize purchases, and have a payment transaction with shipping information if needed.
+
 Required features:
   - Strong user interaction. Allowing user/business communication.
   - Page for new, up-to-date ideas and trends of how local/small businesses are getting active in the community. 
   - Ratings for company(Good and bad, but better to be direct communication and not public)
+
 Desired features:
   - Donations.
   - A user community page for users to blog about experiences
