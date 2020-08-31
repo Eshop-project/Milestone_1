@@ -8,6 +8,22 @@ eShop is defining a new way to shop online for the best of what your local area 
 
 The purpose of this app is to help promote local/small businesses, based on user, and hopefully to become a common placed online shopping market.
 
+### Client
+
+Clientele will be devided into two categories, small businesses and users.
+
+### User Value
+
+The user can browse and support many different small businesses and do so on the go or at home.
+
+### Business Value
+
+The business value comes from the users that supports the small businesses. This is only benefitting any businesses that decide to be apart of the application and keep products and business up-to-date.
+
+### Teaching Value
+
+This project will, hopefully, include best practices that can be conducted when dealing with user/pass collection, database management, payment/refund/user-sensitive-info. If done correctly, the website will hopefully become a legitamate bare-bones example of what an e-commerce website will look like.
+
 ## Project Scope and Budget
 
 The project is scheduled to be completed by December 4th, 2020.
