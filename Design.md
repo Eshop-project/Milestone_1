@@ -32,8 +32,8 @@ Github
 *	We will be sharing an account among team members
 
 ### Python Anywhere
-*	Account:
-*	Web URL:
+*	Account: EshopProject
+*	Web URL: https://eshopproject.pythonanywhere.com
 
 ### Our “Hello World” 
 * [Hello World](../master/Hello%20World!.PNG) - This simple app ensures that all of the development 
