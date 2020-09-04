@@ -36,6 +36,6 @@ Github
 *	Web URL:
 
 ### Our “Hello World” 
-*	Link to screenshot
+*	https://github.com/Eshop-project/Milestone_1/blob/master/Hello%20World.PNG
 
 We decided to pick python anywhere mainly because it allows us to host a web application for no cost. Since we are college students this is a huge for us since we want to save as much money as we can during this project. 
