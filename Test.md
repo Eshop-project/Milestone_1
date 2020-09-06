@@ -1,16 +1,16 @@
 Milestone 1. Project Plan Complete - Test
 PROJECT INFO
-Software Project Plan - Book Builder
+Software Project Plan - Eshop-  Online shopping site
 
-Other Roles - Requirements.md , Design.md , Code.md , Test.md
+Other Roles - Requirements.md , Design.md , Code.md , Test.md, Hello World!.PNG, IssuesLog.md, Requirements.md, Scrum.png
 
 File: Milestone-1/Test.md
 
-URL: https://github.com/Mark-Seaman/Mark-Seaman.github.io/blob/master/BookBuilder/Milestone-1/Test.md
+URL: https://github.com/Eshop-project/Milestone_1/blob/master/Test.md
 
-Documents: Documents/swplan/BookBuilder
+Documents: https://github.com/Eshop-project/Milestone_1
 
-Git Repo: Mark-Seaman.github.io
+Git Repo: https://github.com/Eshop-project
 
 Milestone 1. Project Plan Complete
 Role: QA Engineer  Bryan Aguilar - Test
@@ -20,30 +20,14 @@ Goal: Test Plan
 Outline of testing that will be used
 Setup structure for testing
 Log issues
-Document how to log issues
-Book Builder - Test Plan
-Each level of the hierarchy produces increasing levels of detail. Test planning should always start at the top and work down. This prevents getting lost in the weeds and running out of time.
+Document how to log issues- Issues and bugs found will be logged in the 
 
-A typical medium-sized app can be built in about 1000 hours of engineering time. This means that about 250 hours should be spent on testing. The testing hierarchy acts as a natural budget for how to spent that time.
+E-Shop - Test Plan
 
-Testing Levels
-This info is not specific to book builder but relates to test planning in general.
+Level 1 - Test Plan For E-Shop - Outline the major types of testing that will be done
 
-Level 1 - Test Plan
+For the purpose of this class being limited on time and human interaction due to the Corona Virus.  We have choosen a basic set of testing procedures for E-Shop, which is our online store.  As of right now we choose to ues Manual Acceptance Testing, Quick Testing and Page Tests.  Manual acceptance testing will be used when the author of code has to believed to finish a section.  A user scenario will be made up to test the functionality of the code.  If bugs/issues arise they will be logged in the IssuesLog.md.  The Quick Test will be used after basic code has been written to ensure functionality but does not go into much depth just covers what the coder was trying to accomplish.  All bugs and or issues will be logged in the IssuesLog.md.  The last testing method we choose to use is the page test.  After the Quick test but before Manual acceptance testing we will be using Page Testing to ensure all website pages are loading correctly and displaying properly.  If they are not issues/bugs will be logged in the IssuesLog.md.
+These are the methods we have would like to use for our project but may change due to project needs after more code has been written.
 
 
-High level discussion of testing strategy
-Outline the major types of testing that will be done
-Manual Acceptance Testing - A person uses the application and observes what happens. The test script describes scenarios that the tester must go through.
-Django unit test - Automatic tests that may start with a blank database. These tests can be very fine grained or run the entire system.
-Hammer test - These tests execute automatic scenarios that exercise the entire system.
-Quick test - The test is only used during development to iterate on a single function.
-Page test - This test runs on “requests” Python package and gets web pages from a live server it is used to see if pages on the internet are changing.
-Selenium Page test - Firefox and Chrome are used to obtain pages and look for specific HTML elements.
-Book Builder testing
 
-Testing will be reduced because of limited time on this project.
-Essential testing will include
-Manual Acceptance Testing
-Quick Tests in development
-Page Tests (using "requests" Python package on PyTest)
